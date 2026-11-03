@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1791-find-center-of-star-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
