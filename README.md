@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
@@ -13,18 +14,21 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -42,5 +46,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
