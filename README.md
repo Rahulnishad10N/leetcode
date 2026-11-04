@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0001-two-sum) |
+| [0130-surrounded-regions](https://github.com/Rahulnishad10N/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
@@ -20,6 +21,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Rahulnishad10N/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Rahulnishad10N/leetcode/tree/master/0547-number-of-provinces) |
@@ -31,6 +33,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Rahulnishad10N/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Rahulnishad10N/leetcode/tree/master/0547-number-of-provinces) |
@@ -42,6 +45,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Rahulnishad10N/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rahulnishad10N/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
@@ -67,6 +71,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Rahulnishad10N/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
