@@ -86,4 +86,16 @@
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
