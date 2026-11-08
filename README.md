@@ -15,6 +15,7 @@
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -54,6 +56,7 @@
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -66,6 +69,7 @@
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rahulnishad10N/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -99,6 +103,7 @@
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -123,4 +128,8 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Rahulnishad10N/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
