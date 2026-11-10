@@ -33,6 +33,7 @@
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Rahulnishad10N/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Rahulnishad10N/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
@@ -51,6 +52,7 @@
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Rahulnishad10N/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Rahulnishad10N/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
@@ -77,6 +79,7 @@
 | [0547-number-of-provinces](https://github.com/Rahulnishad10N/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rahulnishad10N/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rahulnishad10N/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Rahulnishad10N/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Rahulnishad10N/leetcode/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
@@ -132,4 +135,16 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
