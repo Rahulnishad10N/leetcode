@@ -16,12 +16,14 @@
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0001-two-sum) |
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Topological Sort
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Rahulnishad10N/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Greedy
+|  |
+| ------- |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
