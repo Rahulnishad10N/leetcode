@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Rahulnishad10N/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Rahulnishad10N/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
@@ -135,6 +136,7 @@
 | [0120-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Rahulnishad10N/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rahulnishad10N/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -182,4 +184,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rahulnishad10N/leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
