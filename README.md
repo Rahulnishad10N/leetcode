@@ -17,6 +17,7 @@
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
@@ -139,6 +140,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Memoization
 |  |
