@@ -16,6 +16,7 @@
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahulnishad10N/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Recursion
 |  |
