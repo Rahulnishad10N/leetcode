@@ -28,6 +28,7 @@
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -188,6 +189,7 @@
 | [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Recursion
 |  |
@@ -220,6 +222,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
