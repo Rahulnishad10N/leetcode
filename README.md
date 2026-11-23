@@ -21,6 +21,7 @@
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
@@ -183,6 +184,7 @@
 | [0409-longest-palindrome](https://github.com/Rahulnishad10N/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
+| [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Recursion
 |  |
@@ -204,10 +206,12 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahulnishad10N/leetcode/tree/master/0409-longest-palindrome) |
+| [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 ## Sorting
 |  |
 | ------- |
