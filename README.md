@@ -190,6 +190,7 @@
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Rahulnishad10N/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Recursion
 |  |
@@ -212,6 +213,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahulnishad10N/leetcode/tree/master/0409-longest-palindrome) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Rahulnishad10N/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 ## Two Pointers
 |  |
 | ------- |
