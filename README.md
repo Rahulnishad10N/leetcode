@@ -33,6 +33,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Rahulnishad10N/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rahulnishad10N/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Rahulnishad10N/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Rahulnishad10N/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Recursion
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
 | ------- |
