@@ -15,6 +15,7 @@
 | [0200-number-of-islands](https://github.com/Rahulnishad10N/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Rahulnishad10N/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
@@ -149,6 +150,7 @@
 | [0198-house-robber](https://github.com/Rahulnishad10N/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rahulnishad10N/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahulnishad10N/leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
