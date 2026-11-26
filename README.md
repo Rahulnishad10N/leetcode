@@ -25,6 +25,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Rahulnishad10N/leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Rahulnishad10N/leetcode/tree/master/1020-number-of-enclaves) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
+| [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
