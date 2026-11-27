@@ -1,24 +1,19 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
         n=len(nums)
-        if n==0:
-            return 0
-        if n==1:
-                return nums[0]
-        if n==2:
-            return max(nums[0],nums[1])
+        dp=[0 for _ in range(n+2)]
+        prev2=0
+        prev1=0
 
-        a=nums[0]
-        b=max(nums[0],nums[1])
+        for i in range(n-1,-1,-1):
+            notRob=prev1
+            Rob=nums[i]+prev2
+            curr= max(notRob,Rob)
+            prev2=prev1
+            prev1=curr
 
-        for j in range(2,n):
-            pick=nums[j]+a
-            notpick=b
-            c=max(pick,notpick)
-            a=b
-            b=c
-
-        return c      
+        return curr       
+              
         
 
  
