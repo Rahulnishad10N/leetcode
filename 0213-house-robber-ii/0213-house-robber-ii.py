@@ -1,31 +1,33 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
         n=len(nums)
-        if n==0:
-            return 0
 
         if n==1:
-            return nums[0]    
+            return nums[0]
 
-        def solve(i,j,nums):
+        ## 0 to n-2
+
+        prev2=0
+        prev1=0
+
+        for i in range(n-2,-1,-1):
+            notRob=prev1
+            Rob=nums[i]+prev2
+            curr1= max(notRob,Rob)
+            prev2=prev1
+            prev1=curr1
+
+        prev2=0
+        prev1=0
 
 
-            if j==i:
-                return nums[i]
+        for i in range(n-1,0,-1):
+            notRob=prev1
+            Rob=nums[i]+prev2
+            curr2= max(notRob,Rob)
+            prev2=prev1
+            prev1=curr2
 
-            if j==i+1:
-                return max(nums[i],nums[i+1])
 
-            a=nums[i]
-            b=max(nums[i],nums[i+1])    
-
-            for r in range(i+2,j+1):
-                pick=nums[r]+a
-                notpick=b
-                c=max(pick,notpick)
-                a=b
-                b=c
-            return c
-
-        return max(solve(0,n-2,nums),solve(1,n-1,nums))                    
+        return max(curr1,curr2)       
         
