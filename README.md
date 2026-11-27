@@ -142,6 +142,7 @@
 | [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,11 +161,13 @@
 | [0740-delete-and-earn](https://github.com/Rahulnishad10N/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Coloring
 |  |
 | ------- |
