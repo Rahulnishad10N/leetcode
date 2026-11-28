@@ -25,6 +25,7 @@
 | [0463-island-perimeter](https://github.com/Rahulnishad10N/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rahulnishad10N/leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Rahulnishad10N/leetcode/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rahulnishad10N/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rahulnishad10N/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulnishad10N/leetcode/tree/master/0733-flood-fill) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
 | [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -266,6 +268,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rahulnishad10N/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahulnishad10N/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rahulnishad10N/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -297,6 +300,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnishad10N/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rahulnishad10N/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rahulnishad10N/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -323,4 +327,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Rahulnishad10N/leetcode/tree/master/0692-top-k-frequent-words) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
