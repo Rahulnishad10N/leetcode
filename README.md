@@ -31,6 +31,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rahulnishad10N/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Rahulnishad10N/leetcode/tree/master/0942-di-string-match) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/Rahulnishad10N/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Rahulnishad10N/leetcode/tree/master/0994-rotting-oranges) |
@@ -146,6 +147,7 @@
 | [0062-unique-paths](https://github.com/Rahulnishad10N/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rahulnishad10N/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Rahulnishad10N/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -256,6 +258,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rahulnishad10N/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahulnishad10N/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Rahulnishad10N/leetcode/tree/master/0455-assign-cookies) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Rahulnishad10N/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rahulnishad10N/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rahulnishad10N/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -278,18 +281,29 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnishad10N/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnishad10N/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnishad10N/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rahulnishad10N/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulnishad10N/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
